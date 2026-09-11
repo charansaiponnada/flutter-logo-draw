@@ -1,22 +1,52 @@
 name: flutter_logo_draw
+
 description: Trace a logo outline, then reveal its fill in Flutter.
+
 version: 0.1.0
-repository: https://github.com/your-user/flutter-logo-draw
-homepage: https://github.com/your-user/flutter-logo-draw
+
+repository: https://github.com/charansaiponnada/flutter-logo-draw
+
+homepage: https://github.com/charansaiponnada/flutter-logo-draw
+
 publish_to: none
 
+
+
 environment:
+
   sdk: '>=3.0.0 <4.0.0'
+  
   flutter: '>=3.10.0'
+  
+
 
 dependencies:
+
   flutter:
+  
     sdk: flutter
+    
+
 
 dev_dependencies:
+
   flutter_test:
+  
     sdk: flutter
+    
   flutter_lints: ^3.0.0
+  
+
 
 flutter:
+
   uses-material-design: true
+  
+
+
+
+
+
+
+
+
